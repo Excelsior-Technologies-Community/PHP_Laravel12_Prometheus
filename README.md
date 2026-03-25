@@ -274,4 +274,5 @@ $this->registerQueueCollectors(['default']);
 ```
 
 ---
+<img width="1918" height="883" alt="Screenshot 2026-03-25 140846" src="https://github.com/user-attachments/assets/36572ff1-e99d-45c9-a462-389b5628e567" />
 
